@@ -117,3 +117,28 @@ body {
 .icon-box-three {
     background-color: #FFF4D6;
 }
+
+.join-now-section {
+    display: flex;
+    padding: 3% 10% 10% 10%;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 50px;
+}
+
+.half-width img {
+    width: 90%;
+    box-shadow: 5px 5px 5px 5px #a39f9f;
+}
+
+.half-width h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.half-width p {
+    margin-bottom: 30px;
+}
