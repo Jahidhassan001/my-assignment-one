@@ -17,7 +17,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    padding: 10%;
+    padding: 11%;
 }
 
 .full-width-one {
@@ -32,4 +32,42 @@ body {
 
 .full-width-one p {
     padding-bottom: 50px;
+}
+
+.donate-section {
+    padding: 10%;
+}
+
+.full-width-two {
+    text-align: center;
+}
+
+.full-width-two h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.full-width-two p {
+    color: #949494;
+    margin-bottom: 70px;
+}
+
+.full-width-two span {
+    font-size: 25px;
+    font-weight: 700;
+    padding: 20px 10px;
+    margin-left: 15px;
+    background-color: #FAFAFA;
+}
+
+.full-width-two input {
+    border: none;
+    color: #949494;
+    font-size: 15px;
+}
+
+.full-width-two hr {
+    width: 50%;
+    border-top: 1px solid #cecdcd;
+    margin-bottom: 50px;
 }
