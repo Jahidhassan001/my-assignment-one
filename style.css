@@ -77,3 +77,43 @@ body {
     border-top: 1px solid #cecdcd;
     margin-bottom: 50px;
 }
+
+.donate-plan-section {
+    padding: 2% 10% 10% 10%;
+}
+
+.simple-div {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.simple-div h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.simple-div p {
+    color: #949494;
+}
+
+.three-width {
+    display: flex;
+}
+
+.three-width div {
+    padding: 2%;
+    margin-left: 15px;
+    border-radius: 1%;
+}
+
+.icon-box-one {
+    background-color: #EDF5F6;
+}
+
+.icon-box-two {
+    background-color: #FFEEEE;
+}
+
+.icon-box-three {
+    background-color: #FFF4D6;
+}
