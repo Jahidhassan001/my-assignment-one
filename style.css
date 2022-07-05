@@ -12,25 +12,24 @@ body {
     border-radius: 5%;
 }
 
-.full-width {
-    text-align: center;
-    color: white;
-}
-
-.full-width h1 {
-    font-size: 50px;
-    font-weight: 700;
-    color: white;
-}
-
-.full-width p {
-    padding-bottom: 50px;
-}
-
 .top-banner {
     background-image: url(images/donation13.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     padding: 10%;
+}
+
+.full-width-one {
+    text-align: center;
+    color: white;
+}
+
+.full-width-one h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.full-width-one p {
+    padding-bottom: 50px;
 }
