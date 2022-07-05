@@ -60,6 +60,12 @@ body {
     background-color: #FAFAFA;
 }
 
+#donate-now {
+    border: 1px solid red;
+    border-radius: 5%;
+    background-color: #FFEEEE;
+}
+
 .full-width-two input {
     border: none;
     color: #949494;
