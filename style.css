@@ -142,3 +142,54 @@ body {
 .half-width p {
     margin-bottom: 30px;
 }
+
+.update-section {
+    padding: 1% 10% 10% 10%;
+}
+
+.input-half-width {
+    text-align: center;
+}
+
+.input-half-width h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.input-full-width {
+    padding: 6%;
+    background-color: #FFF4D6;
+}
+
+.input-one {
+    border: none;
+    background-color: #cec7c7;
+    padding: 13px 10px 15px 10px;
+    border-radius: 2%;
+    font-size: 15px;
+}
+
+.input-two {
+    color: white;
+    border: none;
+    background-color: #FF5959;
+    padding: 15px 25px 0px 25px;
+    border-radius: 2%;
+    font-size: 13px;
+}
+
+.footer-section {
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 3%;
+}
+
+.footer h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    color: #FF5959;
+}
+
+.footer p {
+    color: #FFFFFF;
+}
